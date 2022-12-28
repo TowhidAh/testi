@@ -1,4 +1,5 @@
-// for tedt git
+
+// for test git
 #include <LiquidCrystal.h>
 const int LCD_Pin_RS = 7;
 
